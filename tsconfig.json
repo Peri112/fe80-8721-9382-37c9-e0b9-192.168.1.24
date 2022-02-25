@@ -1,0 +1,11 @@
+{
+  "include": [
+    "client/i18n/**/*",
+    "client/plugins/**/*",
+    "client/src/**/*",
+    "client/utils/**/*",
+    "tools/challenge-helper-scripts/**/*.ts",
+    "tools/scripts/**/*.ts"
+  ],
+  "extends": "./tsconfig-base.json"
+}
